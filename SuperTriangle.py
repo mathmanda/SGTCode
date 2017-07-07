@@ -1,7 +1,3 @@
-from scipy import linalg
-from sympy import *
-
-
 def SuperTriangle(h):
     G = Graph()
     ej=0
